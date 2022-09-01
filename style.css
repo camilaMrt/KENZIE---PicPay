@@ -1,0 +1,428 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap');
+
+body {
+    background-color: #228664;
+    font-family: 'Rubik', sans-serif;
+}
+
+.container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 150px;
+}
+
+.cabecalho {
+    padding: 20px 0;
+    border-bottom: 1.3px solid #b2bdb8;
+}
+
+.cabecalho .container {
+    display: flex;
+    align-items: center;
+}
+
+.cabecalho-logoPicpro img {
+    width: 100%;
+    max-width: 160px;
+}
+
+.cabecalho .cabecalho-logoPicpro {
+    border-right: 1.3px solid #A9BAB4;
+    margin-right: 15px;
+}
+
+.cabecalho-logoKenzie img {
+    max-width: 150px;
+}
+
+.secaoDetalhesConta {
+    color:#FFFFFF;
+    padding: 60px 0 30px;
+}
+
+.secaoDetalhesConta-sobreUsuario {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    justify-content: space-between;
+}
+
+.secaoDetalhesConta-nome {
+    display: flex;
+    align-items: center;
+}
+
+.secaoDetalhesConta-icones {
+    display: flex;
+    align-items: center;
+    width: 35px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+}
+
+.secaoDetalhesConta-icones img {
+    margin: 0 20px;
+    cursor: pointer;
+}
+
+.secaoDetalhesConta-sobreUsuario p {
+    font-size: 18px;
+    margin-left: 10px;
+    font-weight: lighter;
+    line-height: 23px;
+}
+
+.secaoDetalhesConta-sobreUsuario img {
+    width: 100%;
+    max-width: 50px;
+}
+
+.secaoDetalhesConta-sobreUsuario p strong {
+    display: block;
+    font-weight: 500;
+}
+
+.secaoDetalhesConta-saldo {
+    border-top: 1px solid rgba(0, 0, 0, 0.25);
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 0;
+    align-items: center;
+}
+
+.secaoDetalhesConta-saldo img {
+    width: 100%;
+    max-width: 27px;
+    position: relative;
+    right: 276px;
+    top: 10px;
+    cursor: pointer;
+}
+
+
+.secaoDetalhesConta-saldo p {
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: lighter;
+}
+
+.secaoDetalhesConta-saldo p strong {
+    display: block;
+    font-weight: 500;
+}
+
+.secaoDetalhesConta-saldo button {
+    background-color: #FFFFFF;
+    border: none;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 12px 55px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.secaoDetalhesConta-opcoesTransacoes {
+    display: flex;
+    justify-content: space-between;
+}
+
+.secaoDetalhesConta-opcoesTransacoes li {
+    background-color: #1F6F54;
+    width: 170px;
+    height: 177px;
+    border-radius: 20px;
+    padding: 40px 20px;
+    cursor: pointer;
+}
+
+.secaoDetalhesConta-opcoesTransacoes li img {
+    width: 100%;
+    max-width: 40px;
+}
+
+.secaoDetalhesConta-opcoesTransacoes li p {
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 10px;
+    line-height: 25px;
+    width: 80px;
+}
+
+.secaoTransacao {
+    background-color: #FFFFFF;
+    border-radius: 20px 20px 0 0;
+    border-bottom: 15px solid #F0F0F0;
+    padding: 30px 0;
+}
+
+.secaoTransacao .container div {
+    display: none;
+}
+
+.secaoTransacao .container div.mostrar {
+    display: block;
+}
+
+    
+.secaoTransacao-avisoSelecao p {
+    color: #555454;
+    font-size: 25px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
+    padding: 30px 60px;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    text-align: center;
+}
+
+.secaoTransacao-avisoSelecao img {
+    margin: 30px 0 90px;
+    width: 100%;
+}
+
+.secaoTransacao-qrCode {
+    text-align: center;
+    margin:50px 0 120px 0;
+}
+
+.secaoTransacao-qrCode img {
+    max-width: 180px;
+}
+
+.secaoTransacao-qrCode p {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+.secaoTransacao-qrCode button {
+    background-color: #228664;
+    border: none;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin: 50px 0 20px;
+    padding: 20px 150px;
+    cursor: pointer;
+}
+
+.secaoTransacao-qrCode a {
+    display: block;
+    color: #000;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.secaoTransacao-pix {
+    margin: 50px 0 120px 0;
+}
+
+.secaoTransacao-pix img {
+    width: 100%;
+    max-width: 150px;
+}
+
+.secaoTransacao-boxOpcao {
+    display: flex;
+    align-items: center;
+    border: 1.6px solid #D2D2D2;
+    max-width: 390px;
+    padding: 22px 10px;
+    border-radius: 10px;
+    margin: 20px 0;
+    cursor: pointer;
+}
+
+.secaoTransacao-boxOpcao img {
+    width: 100%;
+    max-width: 60px;
+    margin-right: 12px;
+}
+
+.secaoTransacao-boxOpcao p {
+    font-size: 16px;
+    line-height: 20px;
+    color: #555454;
+}
+
+.secaoTransacao-boleto {
+    margin: 50px 0 120px 0;
+}
+
+.secaoTransacao-boleto img {
+    width: 100%;
+    max-width: 40px;
+    margin-bottom: 18px;
+}
+
+.secaoTransacao-boleto h2 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.secaoTransacao-boleto p {
+    font-size: 18px;
+    max-width: 450px;
+    margin: 25px 0 20px 0;
+    color: #555454;
+    line-height: 25px;
+}
+
+.secaoTransacao-boleto input {
+    background-color: #f4f4f4;
+    width: 100%;
+    font-size: 16px;
+    height: 50px;
+    padding: 0 60px;
+    border-radius: 10px;
+    border: 1px solid #D2D2D2;
+    color: #555454;
+    box-sizing: border-box;
+}
+
+.secaoTransacao-cobrar {
+    margin: 50px 0 120px 0;
+}
+
+#secaoTransacao-cobrar-img {
+    width: 100%;
+    max-width: 65px; 
+    margin-bottom: 15px;
+    margin-left: 0;
+}
+
+.secaoTransacao-cobrar img {
+    width: 100%;
+    max-width: 50px;
+    margin-left: 20px;
+}
+
+.secaoTransacao-cobrar h2 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.secaoTransacao-cobrar p {
+    color: #555454;
+    font-size: 17px;
+    max-width: 400px;
+    margin: 30px 0;
+}
+
+.secaoTransacao-cobrar .secaoTransacao-boxOpcao {
+    max-width: 470px;
+    max-height: 100px;
+    padding: 22px 10px;
+    border-radius: 10px;
+    margin: 20px 0; 
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
+}
+
+
+.secaoTransacao-cobrar .secaoTransacao-boxOpcao p {
+    margin-left: 25px;
+}
+
+.secaoTransacao-cobrar .secaoTransacao-boxOpcao p span {
+    color: rgb(67, 67, 67);
+    font-weight: 500;
+}
+
+.secaoDetalhesConta-itemTransacao:hover {
+    background-color: #FFFFFF;
+    color: #228664;
+}
+
+.secaoDetalhesConta-itemTransacao figure {
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    height: 50px;
+    width: 50px;
+}
+
+.qrCode:hover figure {
+    background-image: url("./assets/img/qrcode-verde.png");
+    height: 40px;
+    width: 40px;
+    margin-bottom: 20px;
+}
+
+.pix:hover figure {
+    background-image: url("./assets/img/pix-verde.png");
+    height: 40px;
+    width: 40px;
+    margin-bottom: 20px;
+}
+
+.pagarBoleto:hover figure {
+    background-image: url("./assets/img/boleto-verde.png");
+    height: 31px;
+    width: 41px;
+    margin-bottom: 28.5px;
+}
+
+.cobrar:hover figure {
+    background-image: url("./assets/img/cobrar-verde.png");
+    height: 32px;
+    width: 40px;
+    margin-bottom: 28px;
+}
+
+.secaoDetalhesConta-itemTransacao:hover figure img  {
+    opacity: 0;
+}
+
+
+
+
+.rodape {
+    background-color: #FFFFFF;
+}
+
+.rodape-menuPrincipal {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.rodape-menuPrincipal li {
+    text-align: center;
+}
+
+.rodape-menuPrincipal li a {
+    color: #8C8181;
+    text-decoration: none;
+}
+
+.rodape-menuPrincipal li a .inicio {
+    width: 100%;
+    max-width: 38px;
+}
+
+.rodape-menuPrincipal li a .carteira {
+    width: 100%;
+    max-width: 33px;
+}
+
+.rodape-menuPrincipal li a .notificacoes, .store {
+    width: 100%;
+    max-width: 30px;
+}
+
+.rodape-menuPrincipal li a p {
+    margin-top: 30px;
+}
+
+.rodape-menuItem-pagar {
+    transform: translateY(-45px);
+}
+
+.rodape-menuPrincipal .rodape-menuItem-pagar a img {
+    max-width: 140px;
+}
+
+    
+
+    
+
