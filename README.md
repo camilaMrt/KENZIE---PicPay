@@ -2,8 +2,13 @@
 
 <h3>:triangular_flag_on_post: Descrição do projeto</h3> <br>
 
-:small_blue_diamond: Projeto desenvolvido para o evento PicPro ministrado pelos instrutores da Kenzie Academy Brasil em parceria com o PicPay.
+:small_blue_diamond: Projeto desenvolvido para o evento PicPro ministrado pelos instrutores <br> &emsp;&emsp;&emsp;&emsp; da Kenzie Academy Brasil em parceria com o PicPay.
 
+<br>
+
+<img align="center" width="500px" src="https://raw.githubusercontent.com/camilaMrt/KENZIE---PicPay/684237cf8dc9635605823e389178b76a93cf4a8a/assets/projeto%20picpro.gif">
+
+<br>
 
 ##
 
