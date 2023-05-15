@@ -12,7 +12,7 @@
 
 ##
 
-<h3>:triangular_flag_on_post: Ferramentas</h3> <br>
+<h3>:triangular_flag_on_post: Ferramentas</h3> 
 
 :small_blue_diamond: O projeto foi desenvolvido com as seguintes linguagens: &emsp;&emsp;
 
@@ -32,16 +32,12 @@
 
 ##
 
-<h3>:triangular_flag_on_post: Funcionalidades</h3> <br>
+<h3>:triangular_flag_on_post: Apresentação </h3> <br>
 
-:small_blue_diamond:  
+:small_blue_diamond: O projeto simula o acesso a uma conta pessoal da Picpay.
 
-:small_blue_diamond: 
+:small_blue_diamond: É possível navegar pelos menus 'QR Code', 'Pix', 'Pagar Boleto' e 'Cobrar'.
 
-:small_blue_diamond: 
+:small_blue_diamond: O acesso aos menus, semelhantes a botões, invertem suas cores quando passado o mouse sobre elas, assim indicando sua pré seleção.
 
-:small_blue_diamond: 
 
-:small_blue_diamond: 
-
-:small_blue_diamond: 
