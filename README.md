@@ -6,7 +6,7 @@
 
 <br>
 
-<img align="center" width="500px" src="https://raw.githubusercontent.com/camilaMrt/KENZIE---PicPay/684237cf8dc9635605823e389178b76a93cf4a8a/assets/projeto%20picpro.gif">
+<img align="center" width="500px" src="https://github.com/camilaMrt/KENZIE---PicPay/blob/main/assets/projeto%20picpro.gif?raw=true">
 
 <br>
 
