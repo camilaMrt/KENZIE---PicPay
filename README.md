@@ -1,14 +1,14 @@
-# &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; PicPro 
+# <div align="center"> PicPro </div>
 
-<h3> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;:triangular_flag_on_post: Descrição do projeto</h3> <br>
+<div align="center"><h3>:triangular_flag_on_post: Descrição do projeto</h3></div> <br>
 
-:small_blue_diamond: Projeto desenvolvido para o evento PicPro ministrado pelos instrutores <br> &emsp;&emsp;&emsp;&emsp; da Kenzie Academy Brasil em parceria com o PicPay.
-
-<br>
-
-<img align="center" width="500px" src="https://github.com/camilaMrt/KENZIE---PicPay/blob/main/assets/projeto%20picpro.gif?raw=true">
+<div align="center">:small_blue_diamond: Projeto desenvolvido para o evento PicPro ministrado pelos instrutores <br> &emsp;&emsp;&emsp;&emsp; da Kenzie Academy Brasil em parceria com o PicPay.</div>
 
 <br>
+
+<div align="center"><img align="center" width="500px" src="https://github.com/camilaMrt/KENZIE---PicPay/blob/main/assets/projeto%20picpro.gif?raw=true"></div>
+
+<br><br>
 
 ##
 
