@@ -2,7 +2,7 @@
 
 <div align="center"><h3>:triangular_flag_on_post: Descrição do projeto</h3></div> <br>
 
-<div align="center">:small_blue_diamond: Projeto desenvolvido para o evento PicPro ministrado pelos instrutores <br> &emsp;&emsp;&emsp;&emsp; da Kenzie Academy Brasil em parceria com o PicPay.</div>
+<div align="center"> :small_blue_diamond: Projeto desenvolvido para o evento PicPro ministrado pelos instrutores <br> da Kenzie Academy Brasil em parceria com o PicPay.</div>
 
 <br>
 
